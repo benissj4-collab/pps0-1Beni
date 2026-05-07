@@ -1,1 +1,1 @@
-# Introducción a Git y php en Windows 10, que tal? xd
+# Introducción a Git y php en Windows 10, que tal? 
